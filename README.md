@@ -5,11 +5,11 @@ Proyek ini bertujuan untuk menganalisis kinerja penjualan dan perilaku pelanggan
 ## 📊 Tujuan Analisis
 Sebagai Data Analyst, Anda diminta untuk menyediakan data dan analisis mengenai kondisi perusahaan pada kuartal terakhir untuk disajikan dalam pertemuan townhall. Pertanyaan-pertanyaan yang dijawab dalam laporan analitik pelanggan ini meliputi.
 
--Bagaimana pertumbuhan penjualan saat ini.
--Apakah jumlah pelanggan xyz.com semakin bertambah.
--Berapa banyak dari pelanggan tersebut yang telah melakukan transaksi.
--Kategori produk apa saja yang paling banyak dibeli oleh pelanggan.
--Berapa banyak pelanggan yang tetap aktif bertransaksi.
+-Bagaimana pertumbuhan penjualan saat ini.  
+-Apakah jumlah pelanggan xyz.com semakin bertambah.  
+-Berapa banyak dari pelanggan tersebut yang telah melakukan transaksi.  
+-Kategori produk apa saja yang paling banyak dibeli oleh pelanggan.  
+-Berapa banyak pelanggan yang tetap aktif bertransaksi.  
 
 ## 🗂️ Dataset
 Dataset yang digunakan dalam proyek ini meliput:
