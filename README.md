@@ -14,18 +14,19 @@ Proyek ini bertujuan untuk menganalisis kinerja penjualan dan perilaku pelanggan
 ## 🗂️ Dataset
 Dataset yang digunakan dalam proyek ini meliput:
 
-- **orders_1** Data transaksi penjualan untuk kuartal 1 (Januari – Maret 2004.
-- **orders_2** Data transaksi penjualan untuk kuartal 2 (April – Juni 2004.
-- **customer** Data profil pelanggan yang mendaftar sebagai pelanggan xyz.co.
+- **orders_1** : Data transaksi penjualan untuk kuartal 1 (Januari – Maret 2004.
+- **orders_2** : Data transaksi penjualan untuk kuartal 2 (April – Juni 2004.
+- **customer** : Data profil pelanggan yang mendaftar sebagai pelanggan xyz.co.
 
 ## 🛠️ Tools dan Teknologi
-- MyQL- SQL Qury
+- MySQL
+- SQL Query
 
 ## 📁 Struktur Repositori
 
 - `CustomerAnalysisReport.sq`: Berisi kumpulan query SQL yang digunakan untuk menganalisis data pelangan.
 - `xyz.sq`: Berisi skema dan data awal untuk tabel-tabel yang digunakan dalam analiis.
-- `README.m`: Dokumentasi proyek ni.
+- `README.md`: Dokumentasi proyek ni.
 
 ## 📈 Hasil Analiis
 
